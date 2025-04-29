@@ -44,6 +44,6 @@ I love building interactive web applications and continuously sharpening my skil
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Harshlikescoding&theme=darkhub&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 📈 Activity Graph## 📈 Activity Graph
+## 📈 Activity Graph
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harshlikescoding&theme=dracula&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
